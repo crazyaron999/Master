@@ -9,7 +9,7 @@ public class controller {
 	@GetMapping("/app")
 	public String Helloworld() {
 
-		return "Welcome to RMG MCV-A DevOps Team, DEMO SpringBoot Application 22-02-2024";
+		return "Welcome to RMG MCV-A DevOps Team, DEMO SpringBoot Application 23-02-2024";
 	}
 
 }
